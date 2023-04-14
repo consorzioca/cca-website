@@ -1,2 +1,2 @@
-# website
+# CCA
 Consorzio Copernicus Academy website
