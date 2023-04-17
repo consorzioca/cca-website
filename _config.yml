@@ -3,7 +3,7 @@ email: consorzioita_ca@pro-pec.it
 description: >- # this means to ignore newlines until "baseurl:"
   Consorzio Italiano per la Copernicus Academy
 baseurl: "/"
-url: "https://www.consorzioca.it"
+url: "https://consorzioca.github.io"
 email: "consorzioita_ca@pro-pec.it"
 pec: "consorzioita_ca@pro-pec.it"
 address: "Corso Duca Degli Abruzzi 24 - 10129 Torino (TO)"
