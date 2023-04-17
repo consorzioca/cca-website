@@ -15,7 +15,7 @@ plugins:
 
 # Navigation
 navigationLinks:
- - {permalink: "/soci/", text: "Soci"}
- - {permalink: "/amministratori/", text: "Amministratori"}
- - {permalink: "/statuto/", text: "Statuto"}
- - {permalink: "/contatti/", text: "Contatti"}
+ - {permalink: "/soci", text: "Soci"}
+ - {permalink: "/amministratori", text: "Amministratori"}
+ - {permalink: "/statuto", text: "Statuto"}
+ - {permalink: "/contatti", text: "Contatti"}
