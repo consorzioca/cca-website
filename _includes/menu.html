@@ -1,0 +1,27 @@
+<section id="menu">
+
+	<!-- Search -->
+	<!--	<section>
+			<form class="search" method="get" action="#">
+				<input type="text" name="query" placeholder="Search" />
+			</form>
+		</section> -->
+
+	<!-- Links -->
+		<section>
+			<ul class="links">
+				<li><a href="/"><h3>Home</h3></li>
+				{% for navigationLink in site.navigationLinks %}
+				<li><a href="{{ navigationLink.permalink }}"><h3>{{ navigationLink.text}}</h3></a></li>
+			 	{% endfor %}
+			</ul>
+		</section>
+
+	<!-- Actions -->
+	<!--	<section>
+			<ul class="actions vertical">
+				<li><a href="#" class="button big fit">Log In</a></li>
+			</ul>
+		</section> -->
+
+</section>

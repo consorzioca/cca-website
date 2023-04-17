@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+  	<div id="wrapper">
+	    {% include header.html %}
+	    {% include menu.html %}
+	    <div id="main">
+	    	<article class="post">
+	    		{% include page-header.html %}
+	    		{{ content }}
+	    	</article>
+	    </div>
+	    {% include sidebar.html %}
+  	</div>
+  	{% include scripts.html %}
+  </body>
+</html>
